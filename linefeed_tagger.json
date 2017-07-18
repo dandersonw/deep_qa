@@ -1,6 +1,6 @@
 {
     "model_class": "SimpleTagger",
-    "model_serialization_prefix": "/home/ubuntu/slbnb/models",
+    "model_serialization_prefix": "/home/ubuntu/slbnb/models/",
     "encoder": {
       "word": {
         "type": "cnn",
