@@ -44,5 +44,6 @@
       "learning_rate": 0.5
     },
     "validation_files": ["/home/ubuntu/slbnb/data/valid"],
-    "train_files": ["/home/ubuntu/slbnb/data/train"]
+    "train_files": ["/home/ubuntu/slbnb/data/train"],
+    "test_files": ["/home/ubuntu/slbnb/data/test"]
 }
